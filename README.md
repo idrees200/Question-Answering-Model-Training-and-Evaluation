@@ -53,4 +53,10 @@ The repository includes configurations for different model types and hyperparame
 3. **Logging with WandB**: Metrics such as accuracy, precision, recall, and F1-score are logged to WandB during both training and evaluation phases. Ensure you have an account on WandB and set up your API key for logging.
 
 4. **Evaluate Models**: After training, the models are automatically evaluated using the `eval.csv` dataset. Evaluation results, along with training metrics, are logged to WandB for analysis.
+   
 
+![Screenshot 2024-05-17 113338](https://github.com/idrees200/Question-Answering-Model-Training-and-Evaluation/assets/113856749/92295af0-6836-4ea9-827a-faf6083bf201)
+![Screenshot 2024-05-16 221021](https://github.com/idrees200/Question-Answering-Model-Training-and-Evaluation/assets/113856749/f0993d0b-4046-41aa-9f3f-d88c055ad835)
+![Screenshot 2024-05-16 220959](https://github.com/idrees200/Question-Answering-Model-Training-and-Evaluation/assets/113856749/0f566a74-6aa4-4a1a-9fd6-956c8544d4e9)
+![Screenshot 2024-05-17 113902](https://github.com/idrees200/Question-Answering-Model-Training-and-Evaluation/assets/113856749/9ab0d37f-fe5d-46b0-946d-a3f8cba1f135)
+![Screenshot 2024-05-17 113346](https://github.com/idrees200/Question-Answering-Model-Training-and-Evaluation/assets/113856749/f500e583-4191-493a-a7f4-f7dc55aca449)
